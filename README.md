@@ -11,37 +11,35 @@
       "format": "expanded",
       "extensionName": ".min.css",
       "savePath": "/css",
-      "savePathReplacementPairs": null
-    }
+      "savePathReplacementPairs": null,
+    },
   ],
   "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
   "files.autoSave": "onFocusChange",
   "editor.fontSize": 20,
   "editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace",
   "editor.cursorBlinking": "expand",
-
   // config related to code formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
     "editor.formatOnSave": false,
-    "editor.defaultFormatter": null
+    "editor.defaultFormatter": null,
   },
   "[javascriptreact]": {
     "editor.formatOnSave": false,
-    "editor.defaultFormatter": null
+    "editor.defaultFormatter": null,
   },
   "javascript.validate.enable": false, //disable all built-in syntax checking
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
     "source.fixAll.tslint": "explicit",
-    "source.organizeImports": "explicit"
+    "source.organizeImports": "explicit",
   },
-  "eslint.alwaysShowStatus": true,
   // emmet
   "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.iconTheme": "vscode-icons",
@@ -62,9 +60,7 @@
   "terminal.integrated.env.windows": {},
   "console-ninja.featureSet": "Community",
   "git.openRepositoryInParentFolders": "never",
-  "githubPullRequests.createOnPublishBranch": "never",
   "git.autofetch": true,
-  "hediet.vscode-drawio.resizeImages": null
 }
 
 
