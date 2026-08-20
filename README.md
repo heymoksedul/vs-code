@@ -45,12 +45,6 @@
   "workbench.iconTheme": "vscode-icons",
   "editor.wordWrap": "on",
   "workbench.startupEditor": "none",
-  "powermode.combo.counterEnabled": "hide",
-  "powermode.combo.location": "off",
-  "powermode.enabled": true,
-  "powermode.combo.counterSize": 2,
-  "powermode.shake.intensity": 0,
-  "powermode.explosions.size": 5,
   "explorer.confirmDragAndDrop": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "security.workspace.trust.untrustedFiles": "open",
@@ -58,10 +52,10 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "terminal.integrated.env.windows": {},
-  "console-ninja.featureSet": "Community",
   "git.openRepositoryInParentFolders": "never",
   "git.autofetch": true,
 }
+
 
 
 ```
